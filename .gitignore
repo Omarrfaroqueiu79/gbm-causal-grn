@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# R Environment & Sessions
+.RData
+.RDataTmp*
+.Rhistory
+.Rproj.user/
+
+# Large Single-Cell Data & Matrices (>100MB)
+*.Rds
+*.h5ad
+*.mtx
+*.tar.gz
+*.zip
+
+# Generated Outputs & Temporary Execution Dirs
+outputs/
+Dataset/
+
+# Microsoft Office temporary & working files
+~$*.docx
+~$*.pptx
+*.docx
+*.pptx
+*.pdf
+*.html
+
+# Scratch development scripts
+add_pdf.py
+convert_to_notebook.py
+fix_notebook.py
+fix_notebooks34.py
+generate_docs.py
+test_heatmap.py
+test_notears.py
+update_notebooks.py
+update_notebooks.ps1
+create_docs.ps1
+create_editable_ppt.ps1
+create_publication_schematic.ps1
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+

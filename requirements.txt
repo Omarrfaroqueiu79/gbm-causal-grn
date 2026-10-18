@@ -1,0 +1,22 @@
+# Core Scientific Computing and Data Analysis
+numpy>=1.22.0
+scipy>=1.9.0
+pandas>=1.5.0
+
+# Single-Cell Genomics & AnnData
+scanpy>=1.9.0
+anndata>=0.8.0
+
+# Machine Learning & Statistical Modeling
+scikit-learn>=1.1.0
+statsmodels>=0.13.0
+networkx>=2.8.0
+
+# Visualization & Figures
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter Notebook & Document Utilities
+nbformat>=5.7.0
+python-docx>=0.8.11
+python-pptx>=0.6.21
